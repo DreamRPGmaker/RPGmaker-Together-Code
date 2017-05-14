@@ -14,7 +14,6 @@ null,
 {"id":12,"expanded":false,"name":"田园镇-饰品店","order":12,"parentId":4,"scrollX":819,"scrollY":461.5},
 {"id":13,"expanded":false,"name":"田园镇-旅馆","order":14,"parentId":4,"scrollX":819,"scrollY":461.5},
 {"id":14,"expanded":false,"name":"田园镇-民宅1","order":15,"parentId":4,"scrollX":2184,"scrollY":1230.6666666666667},
-{"id":15,"expanded":false,"name":"田园镇-民宅2","order":16,"parentId":4,"scrollX":769.3333333333334,"scrollY":495.3333333333333},
-{"id":16,"expanded":false,"name":"田园镇-道具店","order":13,"parentId":4,"scrollX":2184,"scrollY":1230.6666666666667},
-{"id":17,"expanded":false,"name":"MAP017","order":17,"parentId":4,"scrollX":769.3333333333334,"scrollY":495.3333333333333}
+{"id":15,"expanded":false,"name":"田园镇-民宅2","order":16,"parentId":4,"scrollX":819,"scrollY":461.5},
+{"id":16,"expanded":false,"name":"田园镇-道具店","order":13,"parentId":4,"scrollX":2184,"scrollY":1230.6666666666667}
 ]

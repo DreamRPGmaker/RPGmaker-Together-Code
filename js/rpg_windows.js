@@ -42,7 +42,7 @@ Window_Base.prototype.standardFontFace = function() {
     } else if ($gameSystem.isKorean()) {
         return 'Dotum, AppleGothic, sans-serif';
     } else {
-        return '微软雅黑';
+        return 'SimHei';
     }
 };
 

@@ -37,6 +37,7 @@ Window_Base.prototype.lineHeight = function() {
 };
 
 Window_Base.prototype.standardFontFace = function() {
+    return 'SimHei, Heiti TC, sans-serif';
     if ($gameSystem.isChinese()) {
         return 'SimHei, Heiti TC, sans-serif';
     } else if ($gameSystem.isKorean()) {

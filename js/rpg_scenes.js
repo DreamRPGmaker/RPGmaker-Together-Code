@@ -190,6 +190,8 @@ Scene_Boot.prototype.isReady = function() {
 };
 
 Scene_Boot.prototype.isGameFontLoaded = function() {
+    Graphics.isFontLoaded('GameFont');
+    return true;
     if (Graphics.isFontLoaded('GameFont')) {
         return true;
     } else {
